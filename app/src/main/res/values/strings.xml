@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NoteMock</string>
+    <string name="test_note_list">hello note list!</string>
+    <string name="test_calendar">hello calendar!</string>
+    <string name="test_search">hello search!</string>
+    <string name="test_my">hello my!</string>
 </resources>
